@@ -19,10 +19,10 @@ The workshop will address:
 
 *9:00a--10:00a* 
 
-- [Introduction](introduction-maps.md)
-- [Spatial Literacy](literacy.md)
-- [Spatial Narrative](narrative.md)
-- [Spatial Data](spatial.md)
+- [Introduction](introduction-spatial.md)
+- [Spatial Literacy](spatial-literacy.md)
+- [Spatial Narrative](spatial-narrative.md)
+- [Spatial Data](spatial-data.md)
 
 *10:00a--12:00p*
 
@@ -37,6 +37,8 @@ The workshop will address:
 *9:00a--10:00a*
 
 - [Introduction](introduction-networks.md)
+- [Network Literacy](network-literacy.md)
+- [Network Data](network-data.md)
 
 *10:00a--12:00p*
 
