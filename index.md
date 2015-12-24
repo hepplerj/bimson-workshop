@@ -30,6 +30,8 @@ The workshop will address:
 - [CartoDB](cartodb.md)
 - [StoryMapJS](storymap.md)
 
+![A Map of Lewis and Clark's Track, Across the Western Portion of North America From the Mississippi to the Pacific Ocean; By Order of the Executive of the United States, in 1804, 5 & 6. Copied by Samuel Lewis from the Original Drawing of Wm. Clark. Smal. Harrison fct.](img/lewisclarkwest.jpg)
+
 ### Day 2: Network Analysis
 
 *9:00a--10:00a*
@@ -41,4 +43,4 @@ The workshop will address:
 - [Gephi](gephi.md)
 - [Palladio](palladio.md)
 
-![A Map of Lewis and Clark's Track, Across the Western Portion of North America From the Mississippi to the Pacific Ocean; By Order of the Executive of the United States, in 1804, 5 & 6. Copied by Samuel Lewis from the Original Drawing of Wm. Clark. Smal. Harrison fct.](img/lewisclarkwest.jpg)
+![The Padgett and Ansell (1993) network to analyze how the Medici family rose to power in Florence.](img/medici-network.png) 
